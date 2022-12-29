@@ -12,8 +12,8 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping(path = "/api/v1/Products")
-public class ProductController {
+@RequestMapping(path = "/api/v1/Employees")
+public class EmployeeController {
 
 
     @Autowired
